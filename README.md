@@ -22,6 +22,12 @@ Atualmente, faço parte do time de tecnologia da **Manchester Investimentos**, u
 
 ---
 
+## 📈 GitHub Stats
+
+![RafaelAguida's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelAguida&show_icons=true&theme=radical)
+
+---
+
 ## 🌐 Links
 - [LinkedIn](https://www.linkedin.com/in/rafael-de-aguida)  
 - [Portfólio Power BI](https://app.powerbi.com/view?r=eyJrIjoiMzMwYWE0NDQtNThiOC00MzVkLTlkZWYtOTM1MTYzZDAxYzcyIiwidCI6ImZlZjBmMzc5LTY1OTUtNDkyNi04ZjIyLTUwZjJjNTg2NTg2MSJ9)
