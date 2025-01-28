@@ -36,5 +36,5 @@ Atualmente, faço parte do time de tecnologia da **Manchester Investimentos**, u
 
 ---
 
-**E-mail**: aguidarafa@hotmail.com
-**WhatsApp**: 47 99209-8229
+- **E-mail**: aguidarafa@hotmail.com
+- **WhatsApp**: 47 99209-8229
