@@ -34,7 +34,8 @@ Atualmente, faço parte do time de tecnologia da **Manchester Investimentos**, u
 - **Ferramentas de Visualização**: Power BI, Metabase 
 - **Plataformas**: MLflow, AirFlow
 - **Nuvem**: AWS
-- **Versionamento**: Git, GitHub  
+- **Versionamento**: Git, GitHub
+- **Metodologia**: Scrum
 
 ---
 
