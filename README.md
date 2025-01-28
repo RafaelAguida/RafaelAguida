@@ -5,7 +5,7 @@ Sou **Analista de Dados/BI** com foco em **Power BI**, **Python**, **SQL** e **M
 ---
 
 ## 📍 Onde estou trabalhando
-Atualmente, faço parte do time de tecnologia da **Manchester Investimentos**, uma empresa credenciada e sócia da **XP Investimentos** que é listada na NASDAQ, onde ajudo a construir e sustentar soluções para diversos tipos de análises e predições baseadas em dados. 📊
+Atualmente, faço parte do time de tecnologia da [Manchester Investimentos](https://manchesterinvest.com.br), uma empresa credenciada e sócia da **XP Investimentos** que é listada na NASDAQ, onde ajudo a construir e sustentar soluções para diversos tipos de análises e predições baseadas em dados. 📊
 
 ---
 
