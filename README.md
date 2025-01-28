@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Rafael de Aguida!
+# 👋 Olá, eu sou Rafaél de Aguida da Silva!
 
 Sou **Analista de Dados/BI** com foco em **Power BI**, **Python**, **SQL** e **Machine Learning**. Estou sempre buscando gerar valor para o time, o que mais gosto é sentir que de fato estou contribuindo com o progresso da companhia, não tem sensação melhor! 🚀
 
