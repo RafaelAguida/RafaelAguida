@@ -10,6 +10,8 @@ Atualmente, faço parte do time de tecnologia da **Manchester Investimentos**, u
 ---
 
 ## 🛠️ Projetos que já atuei
+- **Projeto Área de Análise do Zero**: Criação e implementação de uma área de BI do zero em uma indústria, desenvolvendo os primeiros relatórios e análises com Power BI da empresa. Apresentei a ferramenta para os diretores e para a familia (empresa familiar), treinei o time comercial interno e representantes de vendas de todo o Brasil, criei métricas de performance, realizava reuniões periódicas e era responsável pela gestão e manutenção de todo o ambiente de BI. 😲
+
 - **Integração de Dados - Portal Interno para Data Warehouse**: Desenvolvimento completo de diversos pipelines ETL, incluindo extrações via APIs, transformações e armazenamento estruturado nas camadas bronze e silver no AWS S3. Implementação da camada gold com regras de negócio aplicadas e observabilidade integrada com AirFlow para garantir a qualidade e confiabilidade dos dados. Quebro um bom galho como Engenheiro! 😊
 
 - **Previsão de Churn**: Desenvolvimento de modelo de classificação com **Random Forest** para prever **quais clientes irão dar churn**, buscando tomar ações preventivas para mitigar/reduzir os impactos financeiros. 💰
