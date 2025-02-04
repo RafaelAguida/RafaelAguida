@@ -47,3 +47,24 @@ Atualmente, faço parte do time de tecnologia da [Manchester Investimentos](http
 
 - **E-mail**: aguidarafa@hotmail.com
 - **WhatsApp**: 47 99209-8229
+
+---
+
+# 👋 Hello, I am Rafaél de Aguida da Silva!
+
+I am a **Data/BI Analyst** focused on **Power BI**, **Python**, **SQL** and **Machine Learning**. I am always looking to generate value for the team—what I enjoy the most is feeling that I am truly contributing to the company's progress; there is no better feeling! 🚀
+
+## 📍 Where I am working
+Currently, I am part of the technology team at [Manchester Investimentos](https://manchesterinvest.com.br), a company accredited by and a partner of **XP Investimentos**, which is listed on NASDAQ. Here, I help build and maintain solutions for various types of data-based analyses and predictions. 📊
+
+## 🛠️ Projects I have worked on
+
+- **Analytics Department from Scratch**: Creation and implementation of a BI department from scratch in an industrial company, developing the first Power BI reports and analyses. I introduced the tool to the directors and the family (family-owned business), trained the internal commercial team and sales representatives across Brazil, created performance metrics, held periodic meetings, and was responsible for the management and maintenance of the entire BI environment. 😲
+
+- **Data Integration - Internal Portal to Data Warehouse**: Complete development of multiple ETL pipelines, including API extractions, transformations, and structured storage in bronze and silver layers on AWS S3. Implementation of the gold layer with applied business rules and integrated observability with AirFlow to ensure data quality and reliability. I handle data engineering quite well! 😊
+
+- **Churn Prediction**: Development of a classification model using Random Forest to predict which clients are likely to churn, aiming to take preventive actions to mitigate/reduce financial impacts. 💰
+
+- **Personalized Product Recommendations**: Development of a product recommendation system similar to Netflix’s model, using client and product characteristics to identify which client has the highest probability of liking a specific product. The focus is on the client's investment portfolio, offering the right product to the right client! 🤖
+
+- **Analytical Dashboards**: Creation of multiple interactive Power BI dashboards for performance analysis, focusing on comparisons such as actual vs. target, average, median, trends over time, percentage analyses, etc. My goal is always to answer strategic questions like: "Where are we?", "Where do we want to go?", "How far are we?" and "What do we need to do to achieve our goals?". 🔥
