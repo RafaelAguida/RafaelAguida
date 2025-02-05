@@ -31,6 +31,7 @@ Atualmente, faço parte do time de tecnologia da [Manchester Investimentos](http
 ## 🌐 Links
 - [LinkedIn](https://www.linkedin.com/in/rafael-de-aguida)  
 - [Portfólio Power BI](https://app.powerbi.com/view?r=eyJrIjoiMzMwYWE0NDQtNThiOC00MzVkLTlkZWYtOTM1MTYzZDAxYzcyIiwidCI6ImZlZjBmMzc5LTY1OTUtNDkyNi04ZjIyLTUwZjJjNTg2NTg2MSJ9)
+- [Meus Certificados](https://drive.google.com/drive/folders/1Z5bkNXPezh7EgjTPG36FhZxxrX1nQtZb?usp=sharing)
 
 ---
 
@@ -41,9 +42,10 @@ Atualmente, faço parte do time de tecnologia da [Manchester Investimentos](http
 - **Plataformas**: MLflow, AirFlow
 - **Nuvem**: AWS
 - **Versionamento**: Git, GitHub
-- **Metodologia**: Scrum
+- **Metodologia**: Scrum 
 
 ---
+## Contato
 
 - **E-mail**: aguidarafa@hotmail.com
 - **WhatsApp**: 47 99209-8229
